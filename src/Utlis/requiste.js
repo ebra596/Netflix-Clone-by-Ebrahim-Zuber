@@ -13,3 +13,4 @@ const requistes = {
 
 
 // https://api.themoviedb.org/3/discover/tv?api_key=281d8efb993a5b62c59d11bec5c65cba&with_networks=213
+export default requistes
