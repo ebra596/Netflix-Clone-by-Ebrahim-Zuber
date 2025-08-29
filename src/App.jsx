@@ -3,12 +3,14 @@ import Home from './Pages/Home/Home'
 import "./App.css"
 
 
-function App() {
-  const [count, setCount] = useState(0)
 
+function App() {
+
+  const [state, setState] = useState(null);
   return (
     <div className='App'>
       <Home />
+
     </div>
   )
 }

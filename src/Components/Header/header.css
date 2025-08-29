@@ -36,3 +36,13 @@
     cursor: pointer;
 
 }
+
+.header_right ul {
+    list-style: none;
+    width: 120%;
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+}
